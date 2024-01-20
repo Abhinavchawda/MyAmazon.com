@@ -191,6 +191,7 @@
     background-color: white;
     margin: 20px auto;
     padding: 20px 0 15px;
+    cursor: pointer;
 }
 
 .box-content {
