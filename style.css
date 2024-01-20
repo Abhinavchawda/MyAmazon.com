@@ -128,12 +128,12 @@
     font-weight: 700;
 }
 
-
 /* box 5 */
 .nav-cart {
     font-size: 0.9rem;
     font-weight: 700;
 }
+
 .nav-cart i{
     font-size: 30px;
 }
@@ -209,9 +209,11 @@
 }
 
 /* image-container */
-.img-container {
-    height: 260px;
-    width: 180px;
+.prime-img img{
+    object-fit: contain;
+    margin: 0 auto;
+    height: 240px;
+    width: 1500px;
 }
 
 /* footer */
